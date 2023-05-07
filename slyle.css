@@ -1,0 +1,40 @@
+body {
+    background-color: #FFC2C2;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    text-align: center;
+  }
+header {
+    background-color: #4A4346;
+    width: 500px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+section {
+    background-color: #FEF3BD;
+    width: 500px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer {
+    background-color: #FFD29D;
+    width: 500px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    text-align: justify;
+}
+h2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FEF3BD;
+}
+.branco{
+    width: 200px;
+    padding: 30px;
+}
