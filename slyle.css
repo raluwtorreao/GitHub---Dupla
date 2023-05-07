@@ -38,3 +38,15 @@ h2 {
     width: 200px;
     padding: 30px;
 }
+.texto {
+    text-align: justify;
+    font-size: 15px;
+    color: #3a3537;
+    border: 1px solid #3a3635;
+    border-radius: 5px;
+    background-color: rgb(255, 237, 203);
+    padding: 7px;
+}
+.extra {
+    font-size:25px;
+}
